@@ -1,1 +1,1 @@
-import pro
+import pro.cpython-311.so
